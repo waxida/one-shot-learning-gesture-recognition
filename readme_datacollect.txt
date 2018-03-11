@@ -1,0 +1,1 @@
+The code for data acquisition and real-time detection is available here. This code is written in C++. The data is stored on the local hard disk, and will be sent to server to process.It can also automatically detect hands in visual field.
